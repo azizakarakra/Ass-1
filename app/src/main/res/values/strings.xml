@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment#1</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="fruits">fruits</string>
+    <string name="vegetables">vegetables</string>
+    <string name="cats">cats</string>
+    <string name="flowers">flowers</string>
+    <string name="chocolate">chocolate</string>
+    <string name="check">check</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="start">Start</string>
+    <string name="orange">Orange</string>
+    <string name="grapes">Grapes</string>
+    <string name="back">Back</string>
+</resources>
