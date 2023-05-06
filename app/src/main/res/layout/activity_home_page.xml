@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="animals"
-        android:text="Animals" />
+        android:text="@string/animals" />
 
     <Button
         android:id="@+id/button4"

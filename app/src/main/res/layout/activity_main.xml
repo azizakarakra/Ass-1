@@ -13,9 +13,11 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="247dp"
+        android:contentDescription="@string/animals"
         app:srcCompat="@drawable/logoo" />
 
     <Button
+        android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="41dp"
         android:onClick="start"

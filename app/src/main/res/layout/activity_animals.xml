@@ -14,7 +14,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Lion" />
+        android:text="@string/lion" />
 
     <ImageView
         android:id="@+id/imageView1"
@@ -29,7 +29,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Cat" />
+        android:text="@string/cat" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -44,7 +44,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Dog" />
+        android:text="@string/dog" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -59,7 +59,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Fish" />
+        android:text="@string/fish" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -74,7 +74,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Zebra" />
+        android:text="@string/zebra" />
 
     <ImageView
         android:id="@+id/imageView5"

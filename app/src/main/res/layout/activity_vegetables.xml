@@ -13,7 +13,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Carrot" />
+        android:text="@string/carrot" />
 
     <ImageView
         android:id="@+id/imageView1"
@@ -27,7 +27,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="pumpkin" />
+        android:text="@string/pumpkin" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -41,7 +41,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="eggplant" />
+        android:text="@string/eggplant" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -55,7 +55,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Brocolly" />
+        android:text="@string/brocolly" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -69,7 +69,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Tomato" />
+        android:text="@string/tomato" />
 
     <ImageView
         android:id="@+id/imageView5"
@@ -79,7 +79,7 @@
         app:srcCompat="@drawable/tomato3" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/button6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="170dp"

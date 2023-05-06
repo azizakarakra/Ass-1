@@ -12,4 +12,18 @@
     <string name="orange">Orange</string>
     <string name="grapes">Grapes</string>
     <string name="back">Back</string>
+    <string name="lion">Lion</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="fish">Fish</string>
+    <string name="zebra">Zebra</string>
+    <string name="apple">Apple</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="watermelon">Watermelon</string>
+    <string name="animals">Animals</string>
+    <string name="carrot">Carrot</string>
+    <string name="pumpkin">pumpkin</string>
+    <string name="eggplant">eggplant</string>
+    <string name="brocolly">Brocolly</string>
+    <string name="tomato">Tomato</string>
 </resources>

@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
         android:onClick="show"
-        android:text="Apple" />
+        android:text="@string/apple" />
 
     <ImageView
         android:id="@+id/imageView1"
@@ -59,7 +59,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Strawberry" />
+        android:text="@string/strawberry" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -74,7 +74,7 @@
         android:layout_width="140dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150dp"
-        android:text="Watermelon" />
+        android:text="@string/watermelon" />
 
     <ImageView
         android:id="@+id/imageView5"
