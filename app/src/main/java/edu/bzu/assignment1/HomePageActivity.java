@@ -35,4 +35,9 @@ public class HomePageActivity extends AppCompatActivity {
         Intent intent = new Intent(this,AnimalsActivity.class);
         startActivity(intent);
     }
+
+    public void goFood(View view) {
+        Intent intent = new Intent(this, FoodActivity.class);
+        startActivity(intent);
+    }
 }
